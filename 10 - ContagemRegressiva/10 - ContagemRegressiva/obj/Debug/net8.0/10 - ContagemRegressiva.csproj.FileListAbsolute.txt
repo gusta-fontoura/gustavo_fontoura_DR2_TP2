@@ -1,0 +1,14 @@
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\bin\Debug\net8.0\10 - ContagemRegressiva.exe
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\bin\Debug\net8.0\10 - ContagemRegressiva.deps.json
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\bin\Debug\net8.0\10 - ContagemRegressiva.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\bin\Debug\net8.0\10 - ContagemRegressiva.dll
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\bin\Debug\net8.0\10 - ContagemRegressiva.pdb
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\obj\Debug\net8.0\10 - ContagemRegressiva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\obj\Debug\net8.0\10 - ContagemRegressiva.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\obj\Debug\net8.0\10 - ContagemRegressiva.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\obj\Debug\net8.0\10 - ContagemRegressiva.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\obj\Debug\net8.0\10 - ContagemRegressiva.dll
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\obj\Debug\net8.0\refint\10 - ContagemRegressiva.dll
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\obj\Debug\net8.0\10 - ContagemRegressiva.pdb
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\obj\Debug\net8.0\10 - ContagemRegressiva.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\10 - ContagemRegressiva\10 - ContagemRegressiva\obj\Debug\net8.0\ref\10 - ContagemRegressiva.dll

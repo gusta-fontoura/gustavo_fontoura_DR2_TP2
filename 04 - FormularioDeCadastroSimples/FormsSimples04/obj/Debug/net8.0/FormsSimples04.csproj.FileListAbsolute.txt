@@ -1,0 +1,14 @@
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\bin\Debug\net8.0\FormsSimples04.exe
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\bin\Debug\net8.0\FormsSimples04.deps.json
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\bin\Debug\net8.0\FormsSimples04.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\bin\Debug\net8.0\FormsSimples04.dll
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\bin\Debug\net8.0\FormsSimples04.pdb
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\obj\Debug\net8.0\FormsSimples04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\obj\Debug\net8.0\FormsSimples04.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\obj\Debug\net8.0\FormsSimples04.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\obj\Debug\net8.0\FormsSimples04.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\obj\Debug\net8.0\FormsSimples04.dll
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\obj\Debug\net8.0\refint\FormsSimples04.dll
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\obj\Debug\net8.0\FormsSimples04.pdb
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\obj\Debug\net8.0\FormsSimples04.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\FormsSimples04\FormsSimples04\obj\Debug\net8.0\ref\FormsSimples04.dll

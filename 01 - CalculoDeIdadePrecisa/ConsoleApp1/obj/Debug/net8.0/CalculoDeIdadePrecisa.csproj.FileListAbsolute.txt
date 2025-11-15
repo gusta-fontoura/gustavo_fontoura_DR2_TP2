@@ -1,0 +1,28 @@
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.exe
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.deps.json
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.dll
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.pdb
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.dll
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\refint\CalculoDeIdadePrecisa.dll
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.pdb
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\ref\CalculoDeIdadePrecisa.dll
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.dll
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\refint\CalculoDeIdadePrecisa.dll
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.pdb
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.exe
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.deps.json
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.dll
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\bin\Debug\net8.0\CalculoDeIdadePrecisa.pdb
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\CalculoDeIdadePrecisa.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\TP2 - C#\01 - CalculoDeIdadePrecisa\ConsoleApp1\obj\Debug\net8.0\ref\CalculoDeIdadePrecisa.dll

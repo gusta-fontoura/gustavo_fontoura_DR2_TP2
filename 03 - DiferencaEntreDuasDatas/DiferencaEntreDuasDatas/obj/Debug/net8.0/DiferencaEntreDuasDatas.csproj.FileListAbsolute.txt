@@ -1,0 +1,14 @@
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\bin\Debug\net8.0\DiferencaEntreDuasDatas.exe
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\bin\Debug\net8.0\DiferencaEntreDuasDatas.deps.json
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\bin\Debug\net8.0\DiferencaEntreDuasDatas.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\bin\Debug\net8.0\DiferencaEntreDuasDatas.dll
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\bin\Debug\net8.0\DiferencaEntreDuasDatas.pdb
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\obj\Debug\net8.0\DiferencaEntreDuasDatas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\obj\Debug\net8.0\DiferencaEntreDuasDatas.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\obj\Debug\net8.0\DiferencaEntreDuasDatas.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\obj\Debug\net8.0\DiferencaEntreDuasDatas.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\obj\Debug\net8.0\DiferencaEntreDuasDatas.dll
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\obj\Debug\net8.0\refint\DiferencaEntreDuasDatas.dll
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\obj\Debug\net8.0\DiferencaEntreDuasDatas.pdb
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\obj\Debug\net8.0\DiferencaEntreDuasDatas.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\DiferencaEntreDuasDatas\DiferencaEntreDuasDatas\obj\Debug\net8.0\ref\DiferencaEntreDuasDatas.dll

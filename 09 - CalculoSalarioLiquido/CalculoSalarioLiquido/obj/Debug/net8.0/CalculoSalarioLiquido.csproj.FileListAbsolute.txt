@@ -1,0 +1,14 @@
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\bin\Debug\net8.0\CalculoSalarioLiquido.exe
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\bin\Debug\net8.0\CalculoSalarioLiquido.deps.json
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\bin\Debug\net8.0\CalculoSalarioLiquido.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\bin\Debug\net8.0\CalculoSalarioLiquido.dll
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\bin\Debug\net8.0\CalculoSalarioLiquido.pdb
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\obj\Debug\net8.0\CalculoSalarioLiquido.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\obj\Debug\net8.0\CalculoSalarioLiquido.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\obj\Debug\net8.0\CalculoSalarioLiquido.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\obj\Debug\net8.0\CalculoSalarioLiquido.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\obj\Debug\net8.0\CalculoSalarioLiquido.dll
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\obj\Debug\net8.0\refint\CalculoSalarioLiquido.dll
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\obj\Debug\net8.0\CalculoSalarioLiquido.pdb
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\obj\Debug\net8.0\CalculoSalarioLiquido.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\CalculoSalarioLiquido\CalculoSalarioLiquido\obj\Debug\net8.0\ref\CalculoSalarioLiquido.dll

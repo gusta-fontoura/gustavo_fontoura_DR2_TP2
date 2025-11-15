@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mbfon\\source\\repos\\dev\\7 VerificarImparPar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D30781A9-06EE-4934-8FB8-2B171B6C8F2F}|7 VerificarImparPar\\7 VerificarImparPar.csproj|c:\\users\\mbfon\\source\\repos\\dev\\7 verificarimparpar\\7 verificarimparpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D30781A9-06EE-4934-8FB8-2B171B6C8F2F}|7 VerificarImparPar\\7 VerificarImparPar.csproj|solutionrelative:7 verificarimparpar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mbfon\\source\\repos\\dev\\7 VerificarImparPar\\7 VerificarImparPar\\Program.cs",
+              "RelativeDocumentMoniker": "7 VerificarImparPar\\Program.cs",
+              "ToolTip": "C:\\Users\\mbfon\\source\\repos\\dev\\7 VerificarImparPar\\7 VerificarImparPar\\Program.cs",
+              "RelativeToolTip": "7 VerificarImparPar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:56:30.827Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

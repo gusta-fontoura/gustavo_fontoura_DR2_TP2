@@ -1,0 +1,14 @@
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\bin\Debug\net8.0\ClassificacaoDeNotaEscolar.exe
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\bin\Debug\net8.0\ClassificacaoDeNotaEscolar.deps.json
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\bin\Debug\net8.0\ClassificacaoDeNotaEscolar.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\bin\Debug\net8.0\ClassificacaoDeNotaEscolar.dll
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\bin\Debug\net8.0\ClassificacaoDeNotaEscolar.pdb
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\obj\Debug\net8.0\ClassificacaoDeNotaEscolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\obj\Debug\net8.0\ClassificacaoDeNotaEscolar.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\obj\Debug\net8.0\ClassificacaoDeNotaEscolar.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\obj\Debug\net8.0\ClassificacaoDeNotaEscolar.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\obj\Debug\net8.0\ClassificacaoDeNotaEscolar.dll
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\obj\Debug\net8.0\refint\ClassificacaoDeNotaEscolar.dll
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\obj\Debug\net8.0\ClassificacaoDeNotaEscolar.pdb
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\obj\Debug\net8.0\ClassificacaoDeNotaEscolar.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\ClassificacaoDeNotaEscolar\ClassificacaoDeNotaEscolar\obj\Debug\net8.0\ref\ClassificacaoDeNotaEscolar.dll

@@ -1,0 +1,14 @@
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\bin\Debug\net8.0\DiasAteOProximoAniv.exe
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\bin\Debug\net8.0\DiasAteOProximoAniv.deps.json
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\bin\Debug\net8.0\DiasAteOProximoAniv.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\bin\Debug\net8.0\DiasAteOProximoAniv.dll
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\bin\Debug\net8.0\DiasAteOProximoAniv.pdb
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\obj\Debug\net8.0\DiasAteOProximoAniv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\obj\Debug\net8.0\DiasAteOProximoAniv.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\obj\Debug\net8.0\DiasAteOProximoAniv.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\obj\Debug\net8.0\DiasAteOProximoAniv.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\obj\Debug\net8.0\DiasAteOProximoAniv.dll
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\obj\Debug\net8.0\refint\DiasAteOProximoAniv.dll
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\obj\Debug\net8.0\DiasAteOProximoAniv.pdb
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\obj\Debug\net8.0\DiasAteOProximoAniv.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\DiasAteOProximoAniv\DiasAteOProximoAniv\obj\Debug\net8.0\ref\DiasAteOProximoAniv.dll

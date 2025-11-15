@@ -1,0 +1,14 @@
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\bin\Debug\net8.0\6 - IMC.exe
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\bin\Debug\net8.0\6 - IMC.deps.json
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\bin\Debug\net8.0\6 - IMC.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\bin\Debug\net8.0\6 - IMC.dll
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\bin\Debug\net8.0\6 - IMC.pdb
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\obj\Debug\net8.0\6 - IMC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\obj\Debug\net8.0\6 - IMC.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\obj\Debug\net8.0\6 - IMC.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\obj\Debug\net8.0\6 - IMC.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\obj\Debug\net8.0\6 - IMC.dll
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\obj\Debug\net8.0\refint\6 - IMC.dll
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\obj\Debug\net8.0\6 - IMC.pdb
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\obj\Debug\net8.0\6 - IMC.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\IMC\6 - IMC\obj\Debug\net8.0\ref\6 - IMC.dll

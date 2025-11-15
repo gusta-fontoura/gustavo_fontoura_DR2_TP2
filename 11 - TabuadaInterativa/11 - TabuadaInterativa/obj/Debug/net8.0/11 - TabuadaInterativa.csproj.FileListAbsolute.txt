@@ -1,0 +1,14 @@
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\bin\Debug\net8.0\11 - TabuadaInterativa.exe
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\bin\Debug\net8.0\11 - TabuadaInterativa.deps.json
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\bin\Debug\net8.0\11 - TabuadaInterativa.runtimeconfig.json
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\bin\Debug\net8.0\11 - TabuadaInterativa.dll
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\bin\Debug\net8.0\11 - TabuadaInterativa.pdb
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\obj\Debug\net8.0\11 - TabuadaInterativa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\obj\Debug\net8.0\11 - TabuadaInterativa.AssemblyInfoInputs.cache
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\obj\Debug\net8.0\11 - TabuadaInterativa.AssemblyInfo.cs
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\obj\Debug\net8.0\11 - TabuadaInterativa.csproj.CoreCompileInputs.cache
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\obj\Debug\net8.0\11 - TabuadaInterativa.dll
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\obj\Debug\net8.0\refint\11 - TabuadaInterativa.dll
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\obj\Debug\net8.0\11 - TabuadaInterativa.pdb
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\obj\Debug\net8.0\11 - TabuadaInterativa.genruntimeconfig.cache
+C:\Users\mbfon\source\repos\dev\11 - TabuadaInterativa\11 - TabuadaInterativa\obj\Debug\net8.0\ref\11 - TabuadaInterativa.dll
